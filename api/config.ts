@@ -13,6 +13,6 @@ export default {
     privateKey: process.env.PRIVATE_KEY,
     clientEmail: 'paropay@paropay.iam.gserviceaccount.com',
   },
-  allFilter: ['/about'],
+  allFilter: ['/admin/blogs'],
   startDate: '2010-01-01',
 }
