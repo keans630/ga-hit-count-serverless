@@ -14,7 +14,7 @@ export default {
     clientEmail: 'paropay@paropay.iam.gserviceaccount.com',
   },
   allFilter: [
-    '/services' & '/news'
+    '/services'
   ],
   startDate: '2010-01-01',
 }
