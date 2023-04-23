@@ -15,6 +15,7 @@ export default {
   },
   allFilter: [
     '/services',
+    '/news'
   ],
   startDate: '2010-01-01',
 }
