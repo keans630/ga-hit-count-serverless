@@ -6,12 +6,12 @@
  * ! Don't put your privateKey inside this file directly!
  */
 export default {
-  viewId: '205703100',
+  viewId: '288544944',
   auth: {
-    projectId: 'ga-hit-count',
+    projectId: 'paropay',
     privateKey: process.env.PRIVATE_KEY,
-    clientEmail: 'blog-hit-count@ga-hit-count.iam.gserviceaccount.com',
+    clientEmail: 'paropay@paropay.iam.gserviceaccount.com',
   },
-  allFilter: ['/20'],
+  allFilter: ['/news'],
   startDate: '2010-01-01',
 }
